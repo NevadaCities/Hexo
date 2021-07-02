@@ -2,11 +2,10 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
 
 # SubNav
 subnav:
-  github: "https://github.com/tomsteve1102"
+  github: "https://github.com/NevadaCities"
   #weibo: "#"
   #rss: "#"
   #zhihu: "#"
@@ -17,10 +16,10 @@ subnav:
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  mail: "mailto:i@atomanother.club"
-  #facebook: "#"
+  mail: "mailto:vagrantnote2367@gmail.com"
+  facebook: "https://www.facebook.com/billy.lin.2367"
   #google: "#"
-  #twitter: "#"
+  twitter: "https://twitter.com/NevadaCities"
   #linkedin: "#"
 
 rss: /atom.xml
