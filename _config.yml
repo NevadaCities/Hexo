@@ -101,8 +101,8 @@ theme: apollo
 
 archive_generator:
     per_page: 0
-    yearly: false
-    monthly: false
+    yearly: true
+    monthly: true
     daily: false
 
 # Deployment
