@@ -1,5 +1,6 @@
 ---
 title: 如何使用Cloudfalre Pages搭建Hexo博客
+date: 2022-1-25 09:40:55
 ---
 
 <head>
