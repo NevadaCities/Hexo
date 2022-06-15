@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Billy Lin's Blog
-subtitle: 'A Simple Blog'
-description: ''
-keywords:
-author: Billy Lin
-language: en
-timezone: ''
+title: Lin Beitsi's Blog
+subtitle: ''
+description: 'A simple blog use apollo theme belongs to Lin Beitsi'
+keywords: Blog, Network
+author: Lin Beitsi
+language: zh-cn
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://billylin87.tk
+url: https://linbeitsi.xyz
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
